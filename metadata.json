@@ -1,0 +1,6 @@
+{
+  "name": "BLOOM - Accessible Learning Platform",
+  "description": "A calm, cozy, and universally accessible learning platform built for learners with low vision, dyslexia, ADHD, motor impairments, and screen readers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
